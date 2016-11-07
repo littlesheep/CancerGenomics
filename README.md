@@ -1,2 +1,2 @@
 # CancerGenomics
-Code is currently inavailable for copy right issue.
+Code is currently inavailable because of unpublished manuscript
